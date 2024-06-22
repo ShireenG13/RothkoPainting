@@ -1,2 +1,2 @@
 # RothkoPainting 
-Demo of CSS Box Model
+CSS Box Model
